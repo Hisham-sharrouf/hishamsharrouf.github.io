@@ -11,7 +11,7 @@ I specialize in creating and deploying machine learning models to enhance proces
 
 ## Skills
 
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python, SQL, SAS, R
 - **Machine Learning Frameworks:** PyTorch, TensorFlow
 - **Data Visualization Tools:** Matplotlib, Seaborn, Tableau
 - **Big Data Technologies:** Apache Spark, Hadoop
@@ -30,8 +30,14 @@ I specialize in creating and deploying machine learning models to enhance proces
 
 ## Education
 
-- **Master's in Artificial Intelligence** @ [Saint Joseph University] (2022–2024)
+- **Master's in Information Technology** | Paris-Saclay University (2024)
+  - Specialized in Internet of things.
+
+- **Master's in Artificial Intelligence** | Saint Joseph University (2022)
   - Specialized in machine learning and deep learning methodologies.
+
+- **Bachelor's in Data Science** | Lebanese University (2018)
+  - Machine Learning, Advanced Data Analytics, Social Network Analysis, Big Data, Business Analytics, Advanced Web Development
 
 
 ## Contact
